@@ -86,4 +86,5 @@ const decreasePeople = () => {
 }
 
 
-// similarly create calculator
+// similarly create calculator - with the functionality of add, sub, mult, div, clear button
+// similarly BMI calculator can be made
