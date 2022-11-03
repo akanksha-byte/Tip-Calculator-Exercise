@@ -72,7 +72,7 @@ const decreasePeople = () => {
     alert('Hey! You cannot have less than 1 person!')
     throw 'Hey! You cannot have less than 1 person!'
 
-    return ;
+    return;
   }
 
   // decrement the amount of people
@@ -88,3 +88,5 @@ const decreasePeople = () => {
 
 // similarly create calculator - with the functionality of add, sub, mult, div, clear button
 // similarly BMI calculator can be made
+// this can be added into restaurant website. 
+//similarly mess bill calculator 
